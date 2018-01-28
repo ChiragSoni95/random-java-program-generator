@@ -42,16 +42,16 @@ _**4. Execution Steps**_
 
 A. using gradle build
 
-	1. Traverse to the directory, where the Project is present.
-	2. From the Command prompt run ./gradlew build.
-	3. Run ./gradlew run.
-	4. Run ./gradlew Test
+	1. Navigate to the directory where the project is located
+	2. From the Command prompt run - ./gradlew build
+	3. Run - ./gradlew run
+	4. Run - ./gradlew test
 
 B. using sbt build
 
 	1. From Command Prompt
 			a. Navigate to the directory where the project is located
-			b. Open the Command prompt Run - sbt compile
+			b. From the Command prompt run - sbt compile
 			c. Run - sbt run
 
 	2. From Sbt Shell
