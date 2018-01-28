@@ -2,8 +2,11 @@ _Course Project of CS474: Object-Oriented Languages and Environments_
 ======================================================================
 
 _Instructor_
+
 [Dr. Mark Grechanik] (https://www.cs.uic.edu/k-teacher/mark-grechanik-phd/)
+
 _Team Members_
+
     •	 Gautam: gautam5@uic.edu
     •	 Sachin Mathew: smathe37@uic.edu
     •	 Pratyush Bagaria: pbagar2@uic.edu
@@ -35,17 +38,19 @@ _**3. About the Random Java Program generated**_
 _**4. Execution Steps**_
 
 A. using gradle build
+
 	1. Traverse to the directory, where the Project is present.
 	2. From the Command prompt run ./gradlew build.
 	3. Run ./gradlew run.
 	4. Run ./gradlew Test
-		
+
 B.using sbt build
+
 	1. From Command Prompt
 			a. Navigate to the directory where the project is located
 			b. Open the Command prompt Run - sbt compile
 			c. Run - sbt run
-			
+
 	2. From Sbt Shell
 			a. compile
 			b. run
